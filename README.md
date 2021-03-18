@@ -1,5 +1,3 @@
-### Hi there 👋
-
 - 🔭 WEB全沾开发
 - 🌱 all in js
 - 🤔 做一些有趣的事情
