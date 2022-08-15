@@ -1,4 +1,4 @@
-- 🔭 WEB全沾开发
+- 🔭 全沾开发
 - ❤️ Typescript
 - 🌱 Learning Rust
 - 🤔 做一些有趣的事情
